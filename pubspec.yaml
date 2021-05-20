@@ -15,5 +15,8 @@ dependencies:
   device_info: ^2.0.0
   path: ^1.8.0
   path_provider: ^2.0.1
-  photo_manager: ^1.0.6
+  photo_manager:
+    git:
+      url: https://github.com/Tonigt/flutter_photo_manager.git
+      branch: 1.2.0
   video_player: ^2.1.0
